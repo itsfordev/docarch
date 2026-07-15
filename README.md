@@ -1,3 +1,6 @@
+![License](https://img.shields.io/github/license/itsfordev/docarch)
+![Stars](https://img.shields.io/github/stars/itsfordev/docarch)
+![Issues](https://img.shields.io/github/issues/itsfordev/docarch)
 # DOCARCH - Documentation Architecture Framework
 
 **Meta-framework for consistent, AI-optimized software documentation.**
